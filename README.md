@@ -1,4 +1,4 @@
-tài khoản/ mật khẩu: số id của user/năm sinh
+tài khoản/ mật khẩu: số id của quản lý/năm sinh của quản lý
 ------------------------------------------
 tài khoản: 1 mật khẩu: 1992
 ------------------------------------------
